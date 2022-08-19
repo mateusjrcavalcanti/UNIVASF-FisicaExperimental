@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FISCEX-quiz/static/css/main.0ef913d0.css",
-    "main.js": "/FISCEX-quiz/static/js/main.747d022f.js",
-    "static/media/RobotExpressive1.glb": "/FISCEX-quiz/static/media/RobotExpressive1.06f9d5cfb2ed5af3e120.glb",
-    "static/media/RobotExpressive2.glb": "/FISCEX-quiz/static/media/RobotExpressive2.06f9d5cfb2ed5af3e120.glb",
-    "static/media/clipart2250767.png": "/FISCEX-quiz/static/media/clipart2250767.a242a92eb4dcc13685c6.png",
-    "index.html": "/FISCEX-quiz/index.html",
-    "main.0ef913d0.css.map": "/FISCEX-quiz/static/css/main.0ef913d0.css.map",
-    "main.747d022f.js.map": "/FISCEX-quiz/static/js/main.747d022f.js.map"
+    "main.css": "/UNIVASF-FisicaExperimental/static/css/main.0ef913d0.css",
+    "main.js": "/UNIVASF-FisicaExperimental/static/js/main.6759290f.js",
+    "static/media/RobotExpressive1.glb": "/UNIVASF-FisicaExperimental/static/media/RobotExpressive1.06f9d5cfb2ed5af3e120.glb",
+    "static/media/RobotExpressive2.glb": "/UNIVASF-FisicaExperimental/static/media/RobotExpressive2.06f9d5cfb2ed5af3e120.glb",
+    "static/media/clipart2250767.png": "/UNIVASF-FisicaExperimental/static/media/clipart2250767.a242a92eb4dcc13685c6.png",
+    "index.html": "/UNIVASF-FisicaExperimental/index.html",
+    "main.0ef913d0.css.map": "/UNIVASF-FisicaExperimental/static/css/main.0ef913d0.css.map",
+    "main.6759290f.js.map": "/UNIVASF-FisicaExperimental/static/js/main.6759290f.js.map"
   },
   "entrypoints": [
     "static/css/main.0ef913d0.css",
-    "static/js/main.747d022f.js"
+    "static/js/main.6759290f.js"
   ]
 }
